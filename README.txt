@@ -1,3 +1,8 @@
+Data and analysis scripts and ORN model simulation scripts for 
+
+Olfactory receptor neurons generate multiple response motifs, increasing coding space dimensionality
+https://doi.org/10.7554/eLife.79152 
+
 Figure 1 was generated using 'ORN_Cluster2.m' script with 'entire1s_data.mat' and 'entire4s_data.mat'
 
 Figure 2 was generated using 'Figure_2_5.m' script with 'Figure 2&5.zip'
